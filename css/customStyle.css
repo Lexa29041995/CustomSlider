@@ -1,0 +1,69 @@
+.modal_wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+.modal_wrapper .modal_wrapper.active {
+  display: flex;
+}
+.modal_wrapper .modal_wrapper_bg {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.8;
+}
+.modal_wrapper .modal {
+  background-color: blanchedalmond;
+  padding: 50px 200px;
+  position: absolute;
+}
+.custom_slider {
+  margin-bottom: 20px;
+}
+.custom_slider .outer_container {
+  overflow: hidden;
+  margin: 0 auto;
+}
+.custom_slider .outer_container .inner_container {
+  width: 8000px;
+  display: flex;
+}
+.custom_slider .one_slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.custom_slider .one_slide img {
+  width: 100%;
+}
+.custom_slider .navs {
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+}
+.custom_slider .navs > a {
+  color: black;
+  text-decoration: none;
+  font-size: 30px;
+  border: 1px solid black;
+  padding: 2px 20px;
+  border-radius: 7px;
+  font-weight: bold;
+}
+.custom_slider .navs .prev_slide {
+  margin-right: 20px;
+  right: 0;
+  top: 100px;
+}
+.custom_slider .navs .prev_slide:hover {
+  background-color: tomato;
+}
+.custom_slider .navs .next_slide:hover {
+  background-color: tomato;
+}
