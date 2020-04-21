@@ -69,7 +69,7 @@ Example:</br>
     ```<link rel="stylesheet" href="./css/customStyle.css">```</br>
     ```<link rel="stylesheet" href="./css/style.css">```</br>
 ```</head>```</br>
-```<body>```
+```<body>```</br>
  ```your cod...```</br>
 ```</body>```</br>
 ```</html>```</br>
