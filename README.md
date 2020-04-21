@@ -7,72 +7,70 @@ To get started with the slider you need download ccs file and js file from the C
 To start working with the slider, first copy this code and paste it into your html file:
 
 ```<!DOCTYPE html>```</br>
-```<html lang="en">```
-```<head>```
-    ```<meta charset="UTF-8">```
-    ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```
-    ```<title>Document</title>```
-```</head>```
+```<html lang="en">```</br>
+```<head>```</br>
+    ```<meta charset="UTF-8">```</br>
+    ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```</br>
+    ```<title>Document</title>```</br>
+```</head>```</br>
+```<body>```</br>
+        ```<div class="custom_slider main_slider">```</br>
+            ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```</br>
+            ```<div><img src="./img/canwereallyk.jpg" alt="monkey1"></div>```</br>
+            ```<div><img src="./img/1-monkey.jpg" alt="monkey1"></div>```</br>
+            ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```</br>
+        ```</div>```</br>
+        ```<div class="custom_slider news_slider">```</br>
+            ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```</br>
+            ```<div><img src="./img/canwereallyk.jpg" alt="monkey1"></div>```</br>
+            ```<div><img src="./img/1-monkey.jpg" alt="monkey1"></div>```</br>
+        ```</div>```</br>
+```</body>```</br>
+```</html>```</br>
+
+## Connection customSlider
+
+To connect this slider you need to copy css file link:</br>
+```<link rel="stylesheet" href="./css/customStyle.css">```</br>
+and paste it into header of your html file.</br>
+Example:</br>
+```<!DOCTYPE html>```</br>
+```<html lang="en">```</br>
+```<head>```</br>
+    ```<meta charset="UTF-8">```</br>
+    ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```</br>
+    ```<title>Document</title>```</br>
+    ```<link rel="stylesheet" href="./css/customStyle.css">```</br>
+    ```<link rel="stylesheet" href="./css/style.css">```</br>
+```</head>```</br>
+```<body>```</br>
+```</body>```</br>
+```</html>```</br>
+
+Then you need to connect the script file link.</br>
+
+```<script src="./js/customSlider.js"></script>```</br>
+```<script src="./js/script.js"></script>```</br>
+
+For this you need to link to our script at the end of the <body>.</br>
+Example:</br>
+```<!DOCTYPE html>```</br>
+```<html lang="en">```</br>
+```<head>```</br>
+    ```<meta charset="UTF-8">```</br>
+    ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```</br>
+    ```<title>Document</title>```</br>
+    ```<link rel="stylesheet" href="./css/customStyle.css">```</br>
+    ```<link rel="stylesheet" href="./css/style.css">```</br>
+```</head>```</br>
 ```<body>```
-        ```<div class="custom_slider main_slider">```
-            ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```
-            ```<div><img src="./img/canwereallyk.jpg" alt="monkey1"></div>```
-            ```<div><img src="./img/1-monkey.jpg" alt="monkey1"></div>```
-            ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```
-        ```</div>```
-        ```<div class="custom_slider news_slider">```
-            ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```
-            ```<div><img src="./img/canwereallyk.jpg" alt="monkey1"></div>```
-            ```<div><img src="./img/1-monkey.jpg" alt="monkey1"></div>```
-        ```</div>```
-    
-```</body>```
-```</html>```
+ ```your cod...```</br>
+```</body>```</br>
+```</html>```</br>
 
-## Ñonnection customSlider
+Done!!</br>
 
-To connect this slider you need to copy css file link:
-```<link rel="stylesheet" href="./css/customStyle.css">```
-and paste it into header of your html file.
-Example:
-```<!DOCTYPE html>```
-```<html lang="en">```
-```<head>```
-    ```<meta charset="UTF-8">```
-    ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```
-    ```<title>Document</title>```
-    ```<link rel="stylesheet" href="./css/customStyle.css">```
-    ```<link rel="stylesheet" href="./css/style.css">```
-```</head>```
-```<body>```
-```</body>```
-```</html>```
-
-
-Then you need to connect the script file link.
-
-```<script src="./js/customSlider.js"></script>```
-```<script src="./js/script.js"></script>```
-
-For this you need to link to our script at the end of the <body>.
-Example:
-```<!DOCTYPE html>```
-```<html lang="en">```
-```<head>```
-    ```<meta charset="UTF-8">```
-    ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```
-    ```<title>Document</title>```
-    ```<link rel="stylesheet" href="./css/customStyle.css">```
-    ```<link rel="stylesheet" href="./css/style.css">```
-```</head>```
-```<body>```
- ```âàø êîä...```
-```</body>```
-```</html>```
-
-Done!!
-
-## Parameters
+## Parameters</br>
 
 This slider has default settings.
 But you can change the parameters:
