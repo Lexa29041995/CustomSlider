@@ -91,6 +91,6 @@ loop|boolean|true|Circle slide scrolling
 autoplay|boolean|true|Automatic slide switch
 timeout|Number|3000|Slide switch time. Valid when autoplay = true
 dots|boolean|true|Display navigation “points”
-margin|Number|10|Indent on the right of elements inside the slider (value in px)
+margin|Number|0|Indent on the right of elements inside the slider (value in px)
 onHover|boolean|true|Stop automatic slide scrolling when hovering over a slide
 
