@@ -14,12 +14,12 @@ To start working with the slider, firsly copy this code and paste it into your h
     ```<title>Document</title>```</br>
 ```</head>```</br>
 ```<body>```</br>
-```<div class="modal_wrapper">```
-       ```<div class="modal_wrapper_bg"></div>```
-        ```<div class="modal">```
-            ```<div class='large_img'></div>```
-        ```</div>```
-    ```</div>```
+```<div class="modal_wrapper">```</br>
+       ```<div class="modal_wrapper_bg"></div>```</br>
+        ```<div class="modal">```</br>
+            ```<div class='large_img'></div>```</br>
+        ```</div>```</br>
+    ```</div>```</br>
         ```<div class="custom_slider main_slider">```</br>
             ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```</br>
             ```<div><img src="./img/canwereallyk.jpg" alt="monkey1"></div>```</br>
