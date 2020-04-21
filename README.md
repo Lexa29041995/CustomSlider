@@ -1,8 +1,8 @@
-## Slider installation
+# Slider installation
 
 To get started with the slider you need download **customStyle.ccs** and **customStyle.less** files from css folder and **script.js** file from js folder at the CustomSlider repository
 
-## Using customSlider
+# Using customSlider
 
 To start working with the slider, firsly copy this code and paste it into your html file:
 
@@ -34,7 +34,7 @@ To start working with the slider, firsly copy this code and paste it into your h
 ```</body>```</br>
 ```</html>```</br>
 
-## Connection customSlider
+# Connection customSlider
 
 To connect this slider you need to copy css file link:</br>
 ```<link rel="stylesheet" href="./css/customStyle.css">```</br>
@@ -76,7 +76,7 @@ Example:</br>
 
 Done!!</br>
 
-## Parameters</br>
+# Parameters</br>
 
 This slider has default settings.
 But you can change the parameters:
