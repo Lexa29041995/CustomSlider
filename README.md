@@ -1,6 +1,6 @@
 ## Slider installation
 
-To get started with the slider you need download **customStyle.ccs** and **customStyle.less** files and script.js file from the CustomSlider repository
+To get started with the slider you need download **customStyle.ccs** and **customStyle.less** files from css folder and **script.js** file from js folder at the CustomSlider repository
 
 ## Using customSlider
 
