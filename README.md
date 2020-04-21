@@ -4,7 +4,7 @@ To get started with the slider you need download ccs file and js file from the C
 
 ## Using customSlider
 
-To start working with the slider, first copy this code and paste it into your html file:
+To start working with the slider, firsly copy this code and paste it into your html file:
 
 ```<!DOCTYPE html>```</br>
 ```<html lang="en">```</br>
