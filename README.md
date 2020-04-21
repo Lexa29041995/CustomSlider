@@ -79,14 +79,5 @@ But you can change the parameters:
 
 Parameter|Type|Default|Assignment
 ---------|-------|----|----------
-slideWidth|Number|300|Sets slide`s width
-slideHeight|Number|auto|Sets slide`s height
-maxSlides|Number|1|Number of items displayed in the slider
-navs|boolean|true|Display buttons forward / backward
-loop|boolean|true|Circle slide scrolling
-autoplay|boolean|true|Automatic slide switch
-timeout|Number|3000|Slide switch time. Valid when autoplay = true
-dots|boolean|true|Display navigation “points”
-margin|Number|10|Indent on the right of elements inside the slider (value in px)
-onHover|boolean|true|Stop automatic slide scrolling when hovering over a slide
+
 
