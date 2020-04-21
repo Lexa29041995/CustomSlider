@@ -1,4 +1,4 @@
-## Slider installation
+# Slider installation
 
 To get started with the slider you need download ccs file and js file from the CustomSlider repository
 
