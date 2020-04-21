@@ -58,7 +58,7 @@ Then you need to connect the script file link.</br>
 ```<script src="./js/customSlider.js"></script>```</br>
 ```<script src="./js/script.js"></script>```</br>
 
-For this you need to link to our script at the end of the <body>.</br>
+For this you need to link to our script at the end of the ```<body>```.</br>
 Example:</br>
 ```<!DOCTYPE html>```</br>
 ```<html lang="en">```</br>
