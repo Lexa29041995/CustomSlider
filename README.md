@@ -6,7 +6,7 @@ To get started with the slider you need download ccs file and js file from the C
 
 To start working with the slider, first copy this code and paste it into your html file:
 
-```<!DOCTYPE html>```
+```<!DOCTYPE html>```</br>
 ```<html lang="en">```
 ```<head>```
     ```<meta charset="UTF-8">```
@@ -29,7 +29,7 @@ To start working with the slider, first copy this code and paste it into your ht
 ```</body>```
 ```</html>```
 
-## —onnection customSlider
+## √ëonnection customSlider
 
 To connect this slider you need to copy css file link:
 ```<link rel="stylesheet" href="./css/customStyle.css">```
@@ -66,7 +66,7 @@ Example:
     ```<link rel="stylesheet" href="./css/style.css">```
 ```</head>```
 ```<body>```
- ```‚‡¯ ÍÓ‰...```
+ ```√¢√†√∏ √™√Æ√§...```
 ```</body>```
 ```</html>```
 
@@ -86,7 +86,7 @@ navs|boolean|true|Display buttons forward / backward
 loop|boolean|true|Circle slide scrolling
 autoplay|boolean|true|Automatic slide switch
 timeout|Number|3000|Slide switch time. Valid when autoplay = true
-dots|boolean|true|Display navigation ìpointsî
+dots|boolean|true|Display navigation ‚Äúpoints‚Äù
 margin|Number|10|Indent on the right of elements inside the slider (value in px)
 onHover|boolean|true|Stop automatic slide scrolling when hovering over a slide
 
