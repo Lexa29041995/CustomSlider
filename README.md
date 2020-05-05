@@ -22,10 +22,10 @@ To start working with the slider, firsly copy this code and paste it into your h
         ```</div>```</br>
     ```</div>```</br>
         ```<div class="custom_slider main_slider">```</br>
-            ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```</br>
-            ```<div><img src="./img/canwereallyk.jpg" alt="monkey1"></div>```</br>
-            ```<div><img src="./img/1-monkey.jpg" alt="monkey1"></div>```</br>
-            ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```</br>
+            ```<div><img src="./img/city1.jpg" alt="city1"></div>```</br>
+            ```<div><img src="./img/city2.jpg" alt="city2"></div>```</br>
+            ```<div><img src="./img/city3.jpg" alt="city3"></div>```</br>
+            ```<div><img src="./img/city1.jpg" alt="city4"></div>```</br>
         ```</div>```</br>
 ```</body>```</br>
 ```</html>```</br>
