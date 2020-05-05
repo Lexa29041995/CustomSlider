@@ -107,8 +107,8 @@ Example:</br>
 ```</body>```</br>
 ```</html>```</br>
 
-To script.js file, the code will look like this:
-let mySlider = document.querySelector('.main_slider');
+To script.js file, the code will look like this:</br>
+let mySlider = document.querySelector('.main_slider');</br>
 ```mySlider.customSlider({```</br>
     ```slideWidth: 550,```</br>
     ```maxSlides: 2,```</br>
