@@ -75,7 +75,67 @@ Done!!</br>
 
 ## Additional information
 
-If you want to use 2 or more sliders on your website or application, just copy the block with the class in the html file, add another class to it
+If you want to use 2 or more sliders on your website or application, just copy the block with the class (custom_slider main_slider) in the html file,delete class (main_slider) and add another class to it. 
+Example:</br>
+```<!DOCTYPE html>```</br>
+```<html lang="en">```</br>
+```<head>```</br>
+    ```<meta charset="UTF-8">```</br>
+    ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```</br>
+    ```<title>Document</title>```</br>
+```</head>```</br>
+```<body>```</br>
+```<div class="modal_wrapper">```</br>
+       ```<div class="modal_wrapper_bg"></div>```</br>
+        ```<div class="modal">```</br>
+            ```<div class = 'exit_btn>x</div>```</br>
+            ```<div class='large_img'></div>```</br>
+        ```</div>```</br>
+    ```</div>```</br>
+        ```<div class="custom_slider main_slider">```</br>
+            ```<div><img src="./img/city1.jpg" alt="city1"></div>```</br>
+            ```<div><img src="./img/city2.jpg" alt="city2"></div>```</br>
+            ```<div><img src="./img/city3.jpg" alt="city3"></div>```</br>
+            ```<div><img src="./img/city1.jpg" alt="city1"></div>```</br>
+        ```</div>```</br>
+        ```<div class="custom_slider news_slider">```</br>
+            ```<div><img src="./img/city1.jpg" alt="city1"></div>```</br>
+            ```<div><img src="./img/city2.jpg" alt="city2"></div>```</br>
+            ```<div><img src="./img/city3.jpg" alt="city3"></div>```</br>
+            ```<div><img src="./img/city1.jpg" alt="city1"></div>```</br>
+        ```</div>```</br>
+```</body>```</br>
+```</html>```</br>
+
+To script.js file, the code will look like this:
+let mySlider = document.querySelector('.main_slider');
+```mySlider.customSlider({```
+    ```slideWidth: 550,```
+    ```maxSlides: 2,```
+    ```slidesHeight: 300,```
+    ```navs: true,```
+    ```loop: true,```
+    ```autoplay: true,```
+    ```timeout: 2000,```
+    ```dots: true,```
+    ```margin: 10,```
+    ```onHover: true,```
+```});```
+
+```let newsSlider = document.querySelector('.news_slider');```
+```newsSlider.customSlider({```
+   ```slideWidth: 450,```
+    ```maxSlides: 1,```
+    ```slidesHeight: 200,```
+    ```navs: true,```
+    ```loop: true,```
+    ```autoplay: true,```
+    ```timeout: 3000,```
+    ```dots: true,```
+    ```margin: 0,```
+    ```onHover: true,```
+```});```
+
 
 ## Parameters</br>
 
