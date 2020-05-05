@@ -1,0 +1,117 @@
+.modal_wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+.modal_wrapper .active_modal {
+  width: 1200px;
+  height: 800px;
+}
+.modal_wrapper .modal_wrapper_bg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.8;
+}
+.modal_wrapper .modal {
+  position: absolute;
+  top: 10%;
+  left: 25%;
+}
+.modal_wrapper .modal .exit_btn {
+  position: absolute;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: red;
+  border: 1px solid black;
+  top: -30px;
+  left: 700px;
+  z-index: 1;
+}
+.modal_wrapper .modal .exit_btn:hover {
+  cursor: pointer;
+}
+.modal_wrapper .modal .large_img {
+  transform: scale(0.5);
+}
+.active_window {
+  display: flex;
+}
+.custom_slider {
+  position: relative;
+}
+.custom_slider .outer_container {
+  overflow: hidden;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.custom_slider .outer_container .inner_container {
+  width: 8000px;
+  display: flex;
+}
+.custom_slider .one_slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.custom_slider .one_slide img {
+  width: 100%;
+}
+.custom_slider .navs {
+  display: flex;
+  justify-content: center;
+}
+.custom_slider .navs > a {
+  color: black;
+  text-decoration: none;
+  font-size: 15px;
+  border: 1px solid #949393;
+  padding: 2px 20px;
+  border-radius: 7px;
+  font-weight: bold;
+}
+.custom_slider .navs .prev_slide {
+  background-color: #949393;
+  position: absolute;
+  top: 90%;
+  left: 30%;
+}
+.custom_slider .navs .next_slide {
+  background-color: #949393;
+  position: absolute;
+  top: 90%;
+  right: 30%;
+}
+.custom_slider .navs .prev_slide:hover {
+  background-color: #5c5a5a;
+  border: 1px solid #5c5a5a;
+}
+.custom_slider .navs .next_slide:hover {
+  background-color: #5c5a5a;
+  border: 1px solid #5c5a5a;
+}
+.custom_slider .allDots {
+  display: flex;
+  justify-content: center;
+}
+.custom_slider .dot {
+  width: 10px;
+  height: 10px;
+  background-color: #949393;
+  border-radius: 10px;
+  margin: 10px;
+}
+.custom_slider .dot:hover {
+  background-color: #5c5a5a;
+  cursor: pointer;
+}
+.custom_slider .active_dot {
+  background-color: #5c5a5a;
+}
