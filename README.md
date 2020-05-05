@@ -25,7 +25,7 @@ To start working with the slider, firsly copy this code and paste it into your h
             ```<div><img src="./img/city1.jpg" alt="city1"></div>```</br>
             ```<div><img src="./img/city2.jpg" alt="city2"></div>```</br>
             ```<div><img src="./img/city3.jpg" alt="city3"></div>```</br>
-            ```<div><img src="./img/city1.jpg" alt="city4"></div>```</br>
+            ```<div><img src="./img/city1.jpg" alt="city1"></div>```</br>
         ```</div>```</br>
 ```</body>```</br>
 ```</html>```</br>
