@@ -43,7 +43,6 @@ Example:</br>
     ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```</br>
     ```<title>Document</title>```</br>
     ```<link rel="stylesheet" href="./css/customStyle.css">```</br>
-    ```<link rel="stylesheet" href="./css/style.css">```</br>
 ```</head>```</br>
 ```<body>```</br>
 ```</body>```</br>
@@ -67,6 +66,8 @@ Example:</br>
 ```</head>```</br>
 ```<body>```</br>
  ```your cod...```</br>
+ ```<script src="./js/customSlider.js"></script>```</br>
+```<script src="./js/script.js"></script>```</br>
 ```</body>```</br>
 ```</html>```</br>
 
