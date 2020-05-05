@@ -17,7 +17,7 @@ To start working with the slider, firsly copy this code and paste it into your h
 ```<div class="modal_wrapper">```</br>
        ```<div class="modal_wrapper_bg"></div>```</br>
         ```<div class="modal">```</br>
-            ```<div class = 'exit_btn>x</div>
+            ```<div class = 'exit_btn>x</div>```
             ```<div class='large_img'></div>```</br>
         ```</div>```</br>
     ```</div>```</br>
