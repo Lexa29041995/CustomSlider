@@ -73,6 +73,10 @@ Example:</br>
 
 Done!!</br>
 
+## Additional information
+
+If you want to use 2 or more sliders on your website or application, just copy the block with the class in the html file, add another class to it
+
 ## Parameters</br>
 
 This slider has default settings.
