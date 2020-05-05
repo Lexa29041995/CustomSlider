@@ -11,17 +11,3 @@ mySlider.customSlider({
     margin: 10,
     onHover: true,
 });
-
-// let newsSlider = document.querySelector('.news_slider');
-// newsSlider.customSlider({
-//     slideWidth: 450,
-//     maxSlides: 1,
-//     slidesHeight: 200,
-//     navs: true,
-//     loop: true,
-//     autoplay: true,
-//     timeout: 3000,
-//     dots: true,
-//     margin: 0,
-//     onHover: true,
-// });
