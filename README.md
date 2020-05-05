@@ -109,32 +109,32 @@ Example:</br>
 
 To script.js file, the code will look like this:
 let mySlider = document.querySelector('.main_slider');
-```mySlider.customSlider({```
-    ```slideWidth: 550,```
-    ```maxSlides: 2,```
-    ```slidesHeight: 300,```
-    ```navs: true,```
-    ```loop: true,```
-    ```autoplay: true,```
-    ```timeout: 2000,```
-    ```dots: true,```
-    ```margin: 10,```
-    ```onHover: true,```
-```});```
+```mySlider.customSlider({```</br>
+    ```slideWidth: 550,```</br>
+    ```maxSlides: 2,```</br>
+    ```slidesHeight: 300,```</br>
+    ```navs: true,```</br>
+    ```loop: true,```</br>
+    ```autoplay: true,```</br>
+    ```timeout: 2000,```</br>
+    ```dots: true,```</br>
+    ```margin: 10,```</br>
+    ```onHover: true,```</br>
+```});```</br>
 
-```let newsSlider = document.querySelector('.news_slider');```
-```newsSlider.customSlider({```
-   ```slideWidth: 450,```
-    ```maxSlides: 1,```
-    ```slidesHeight: 200,```
-    ```navs: true,```
-    ```loop: true,```
-    ```autoplay: true,```
-    ```timeout: 3000,```
-    ```dots: true,```
-    ```margin: 0,```
-    ```onHover: true,```
-```});```
+```let newsSlider = document.querySelector('.news_slider');```</br>
+```newsSlider.customSlider({```</br>
+   ```slideWidth: 450,```</br>
+    ```maxSlides: 1,```</br>
+    ```slidesHeight: 200,```</br>
+    ```navs: true,```</br>
+    ```loop: true,```</br>
+    ```autoplay: true,```</br>
+    ```timeout: 3000,```</br>
+    ```dots: true,```</br>
+    ```margin: 0,```</br>
+    ```onHover: true,```</br>
+```});```</br>
 
 
 ## Parameters</br>
