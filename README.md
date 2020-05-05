@@ -17,6 +17,7 @@ To start working with the slider, firsly copy this code and paste it into your h
 ```<div class="modal_wrapper">```</br>
        ```<div class="modal_wrapper_bg"></div>```</br>
         ```<div class="modal">```</br>
+            ```<div class = 'exit_btn>x</div>
             ```<div class='large_img'></div>```</br>
         ```</div>```</br>
     ```</div>```</br>
@@ -25,11 +26,6 @@ To start working with the slider, firsly copy this code and paste it into your h
             ```<div><img src="./img/canwereallyk.jpg" alt="monkey1"></div>```</br>
             ```<div><img src="./img/1-monkey.jpg" alt="monkey1"></div>```</br>
             ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```</br>
-        ```</div>```</br>
-        ```<div class="custom_slider news_slider">```</br>
-            ```<div><img src="./img/animal-selfies-5.jpg" alt="monkey1"></div>```</br>
-            ```<div><img src="./img/canwereallyk.jpg" alt="monkey1"></div>```</br>
-            ```<div><img src="./img/1-monkey.jpg" alt="monkey1"></div>```</br>
         ```</div>```</br>
 ```</body>```</br>
 ```</html>```</br>
